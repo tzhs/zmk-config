@@ -22,15 +22,15 @@
 
 / {
 
-    macros {
-        shift: shift {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&none>, <&macro_press>, <&kp>;
+ //   macros {
+ //       shift: shift {
+ //           compatible = "zmk,behavior-macro";
+ //           #binding-cells = <0>;
+ //           bindings = <&none>, <&macro_press>, <&kp>;
 
-            label = "SHIFT";
-        };
-    };
+ //           label = "SHIFT";
+ //       };
+ //   };
 
     combos {
 
