@@ -51,8 +51,8 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&none &kp Q  &kp W  &kp D     &kp W  &kp B        &kp J    &kp F  &kp U          &kp P    &kp SEMI  &none
-&none &kp A  &kp S  &kp H     &kp T  &kp G        &kp Y    &kp N  &kp E          &kp I    &kp I     &none
+&none &kp Q  &kp D  &kp R     &kp W  &kp B        &kp J    &kp F  &kp U          &kp P    &kp SEMI  &none
+&none &kp A  &kp S  &kp H     &kp T  &kp G        &kp Y    &kp N  &kp E          &kp O    &kp I     &none
 &none &kp Z  &kp X  &kp M     &kp C  &kp V        &kp K    &kp L  &kp COMMA      &kp DOT  &kp FSLH  &none
                          &kp LGUI  &mo 1  &mt LEFT_SHIFT SPACE    &mt RIGHT_SHIFT SPACE  &mo 2  &kp BACKSPACE
             >;
